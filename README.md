@@ -21,10 +21,3 @@ Eu estudo na unp(Univesidade Potiguar) e estou no 4º periodo de Sistemas de inf
   <a target="_blank" href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="40" /><a/>
 
 </div>
-
-##
-
-
-  ### 📫Como contatar?
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eozecos@gmail.com)
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/#)
