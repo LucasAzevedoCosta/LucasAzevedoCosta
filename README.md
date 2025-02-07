@@ -11,8 +11,8 @@ Sou apaixonado por aprender e enfrentar novos desafios, sempre buscando as melho
 ## GitHub Stats
 <img src="https://img.shields.io/static/v1?label=Overview&message=LucasAzevedoCosta&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 <div align="center" >
-<img src="https://github-readme-stats.vercel.app/api?username=LucasAzevedoCosta&show_icons=true&title_color=783c00&icon_color=783c00&text_color=af552e&bg_color=f8efd4&cache_seconds=2300">
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAzevedoCosta&layout=donut&title_color=783c00&icon_color=783c00&text_color=af552e&bg_color=f8efd4">
+<img src="https://github-readme-stats.vercel.app/api?username=LucasAzevedoCosta&show_icons=true&icon_color=783c00&title_color=783c00&text_color=af552e&bg_color=f8efd4&cache_seconds=2300">
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAzevedoCosta&layout=donut&icon_color=783c00&title_color=783c00&text_color=af552e&bg_color=f8efd4">
 </div>
 
 ## Minhas Skills
