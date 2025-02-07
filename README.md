@@ -2,6 +2,12 @@
 <h1>Olá o meu nome é Lucas Azevedo</h1>
 
 
+Sou desenvolvedor back-end com experiência. Atualmente, estou estagiando na Secretaria de Educação, do Esporte e do Lazer do Rio Grande do Norte, onde aplico e aprimoro meus conhecimentos em desenvolvimento de software.
+
+Estou ampliando minhas habilidades para me tornar um desenvolvedor fullstack, aprendendo tecnologias front-end.
+
+Sou apaixonado por aprender e enfrentar novos desafios, sempre buscando as melhores práticas e soluções eficientes no desenvolvimento de software.
+
 ## GitHub Stats
 <img src="https://img.shields.io/static/v1?label=Overview&message=LucasAzevedoCosta&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 <div align="center" >
@@ -13,12 +19,13 @@
 
 **Aplicações e dados**
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
 
 **Utilidades**
 
@@ -33,6 +40,6 @@
 
 **Ferramentas de desenvolvimento**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
