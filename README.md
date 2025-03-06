@@ -31,6 +31,7 @@ Sou apaixonado por aprender e enfrentar novos desafios, sempre buscando as melho
 
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 ![Hoppscotch](https://img.shields.io/badge/-Hoppscotch-333333?style=flat&logo=Hoppscotch)
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=Insomnia)
 ![DBeaver](https://img.shields.io/badge/-DBeaver-333333?style=flat&logo=DBeaver)
 
 **DevOps**
