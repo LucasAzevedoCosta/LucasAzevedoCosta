@@ -40,6 +40,8 @@ Sou apaixonado por aprender e enfrentar novos desafios, sempre buscando as melho
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=Swagger)
+![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=Grafana)
+![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=Prometheus)
 
 **Ferramentas de desenvolvimento**
 
