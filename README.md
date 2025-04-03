@@ -17,22 +17,19 @@ Sou apaixonado por aprender e enfrentar novos desafios, sempre buscando as melho
 
 ## Minhas Skills
 
-**Aplicações e dados**
+**Back-End**
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)
+
+**Front-End**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
-
-**Utilidades**
-
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-![Hoppscotch](https://img.shields.io/badge/-Hoppscotch-333333?style=flat&logo=Hoppscotch)
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=Insomnia)
-![DBeaver](https://img.shields.io/badge/-DBeaver-333333?style=flat&logo=DBeaver)
 
 **DevOps**
 
@@ -42,6 +39,13 @@ Sou apaixonado por aprender e enfrentar novos desafios, sempre buscando as melho
 ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=Swagger)
 ![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=Grafana)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=Prometheus)
+
+**Utilidades**
+
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Hoppscotch](https://img.shields.io/badge/-Hoppscotch-333333?style=flat&logo=Hoppscotch)
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=Insomnia)
+![DBeaver](https://img.shields.io/badge/-DBeaver-333333?style=flat&logo=DBeaver)
 
 **Ferramentas de desenvolvimento**
 
