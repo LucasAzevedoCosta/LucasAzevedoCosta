@@ -20,9 +20,11 @@ Sou apaixonado por aprender e enfrentar novos desafios, sempre buscando as melho
 **Back-End**
 
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)
+![Bun](https://img.shields.io/badge/-Bun-333333?style=flat&logo=Bun)
 
 **Front-End**
 
