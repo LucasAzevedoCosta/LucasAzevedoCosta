@@ -11,8 +11,8 @@ Sou apaixonado por aprender e enfrentar novos desafios, sempre buscando as melho
 ## GitHub Stats
 <img src="https://img.shields.io/static/v1?label=Overview&message=LucasAzevedoCosta&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 <div align="center" >
-<img src="https://github-readme-stats.vercel.app/api?username=LucasAzevedoCosta&text_color=af552e&icon_color=783c00&title_color=783c00&bg_color=f8efd4&show_icons=true&cache_seconds=2300">
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAzevedoCosta&layout=donut&bg_color=f8efd4&icon_color=783c00&text_color=af552e&title_color=783c00">
+<img src="https://github-readme-stats.vercel.app/api?username=LucasAzevedoCosta&icon_color=783c00&text_color=af552e&title_color=783c00&bg_color=f8efd4&show_icons=true&cache_seconds=2300">
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAzevedoCosta&bg_color=f8efd4&layout=donut&icon_color=783c00&text_color=af552e&title_color=783c00">
 </div>
 
 ## Minhas Skills
@@ -21,6 +21,7 @@ Sou apaixonado por aprender e enfrentar novos desafios, sempre buscando as melho
 
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
+![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)
