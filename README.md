@@ -21,11 +21,12 @@ Sou apaixonado por aprender e enfrentar novos desafios, sempre buscando as melho
 
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
-![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)
+![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=Electron)
 ![Bun](https://img.shields.io/badge/-Bun-333333?style=flat&logo=Bun)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)
+![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring)
 
 **Front-End**
 
