@@ -19,14 +19,13 @@ Sou apaixonado por aprender e enfrentar novos desafios, sempre buscando as melho
 
 **Back-End**
 
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=Electron)
 ![Bun](https://img.shields.io/badge/-Bun-333333?style=flat&logo=Bun)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)
 ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring)
+<!--![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=Electron)-->
 
 **Front-End**
 
@@ -41,8 +40,8 @@ Sou apaixonado por aprender e enfrentar novos desafios, sempre buscando as melho
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=Swagger)
-![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=Grafana)
-![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=Prometheus)
+<!--![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=Grafana)-->
+<!--![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=Prometheus)-->
 
 **Utilidades**
 
