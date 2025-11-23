@@ -2,11 +2,11 @@
 <h1>Olá o meu nome é Lucas Azevedo</h1>
 
 
-Sou desenvolvedor back-end com experiência. Atualmente, estou estagiando na Secretaria de Educação, do Esporte e do Lazer do Rio Grande do Norte, onde aplico e aprimoro meus conhecimentos em desenvolvimento de software.
+Sou desenvolvedor Full Stack com experiência em Java, TypeScript, Node.js e Next.js, atuando tanto na criação quanto na manutenção de aplicações modernas. Bem como, busco continuamente promover eficiência, desempenho e aderência às melhores práticas de desenvolvimento.
 
-Estou ampliando minhas habilidades para me tornar um desenvolvedor fullstack, aprendendo tecnologias front-end.
+Além disso, encontro-me em processo de aprofundamento técnico em React e arquitetura de software, a fim de entregar soluções progressivamente mais completas, robustas e de elevada qualidade. 
 
-Sou apaixonado por aprender e enfrentar novos desafios, sempre buscando as melhores práticas e soluções eficientes no desenvolvimento de software.
+Dessa forma, consigo alinhar inovação, organização e excelência em cada projeto desenvolvido, mantendo assim, um compromisso constante com a evolução profissional.
 
 ## GitHub Stats
 <img src="https://img.shields.io/static/v1?label=Overview&message=LucasAzevedoCosta&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
@@ -25,7 +25,6 @@ Sou apaixonado por aprender e enfrentar novos desafios, sempre buscando as melho
 ![Bun](https://img.shields.io/badge/-Bun-333333?style=flat&logo=Bun)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)
 ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring)
-<!--![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=Electron)-->
 
 **Front-End**
 
@@ -40,8 +39,6 @@ Sou apaixonado por aprender e enfrentar novos desafios, sempre buscando as melho
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=Swagger)
-<!--![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=Grafana)-->
-<!--![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=Prometheus)-->
 
 **Utilidades**
 
