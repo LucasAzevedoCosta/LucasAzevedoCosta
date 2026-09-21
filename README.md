@@ -11,20 +11,20 @@ Dessa forma, consigo alinhar inovação, organização e excelência em cada pro
 ## GitHub Stats
 <img src="https://img.shields.io/static/v1?label=Overview&message=LucasAzevedoCosta&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 <div align="center" >
-<img src="https://github-readme-stats.vercel.app/api?username=LucasAzevedoCosta&icon_color=783c00&text_color=af552e&title_color=783c00&bg_color=f8efd4&show_icons=true&cache_seconds=2300">
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasAzevedoCosta&bg_color=f8efd4&layout=donut&icon_color=783c00&text_color=af552e&title_color=783c00">
+<img src="https://github-stats-extended.vercel.app/api?username=LucasAzevedoCosta&show_icons=true&include_all_commits=true&theme=moltack">
+<img height="195" src="https://github-stats-extended.vercel.app/api/top-langs?username=LucasAzevedoCosta&layout=donut&langs_count=5&theme=moltack">
 </div>
 
 ## Minhas Skills
 
 **Back-End**
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
+![Php](https://img.shields.io/badge/-Php-333333?style=flat&logo=Php)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Bun](https://img.shields.io/badge/-Bun-333333?style=flat&logo=Bun)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)
-![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring)
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel)
 
 **Front-End**
 
@@ -32,6 +32,7 @@ Dessa forma, consigo alinhar inovação, organização e excelência em cada pro
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
+![Vue.js](https://img.shields.io/badge/-Vue-333333?style=flat&logo=Vue.js)
 
 **DevOps**
 
